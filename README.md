@@ -10,6 +10,7 @@ lalu install package2 ini
 ```text
 pkg install x11-repo
 pkg install termux-x11-nightly
+pkg install pulseaudio
 pkg install xfce4
 pkg install git
 ```
