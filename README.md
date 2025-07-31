@@ -1,5 +1,7 @@
 **Cara menggunakan termux x11**
 
+![desktop](./viewdesktop.jpg)
+
 pertama-tama pkg update dan pkg upgrade dulu lalu ganti repo server dulu dengan
 
 ```text
