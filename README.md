@@ -1,6 +1,6 @@
 **Cara menggunakan termux x11**
 
-pertama-tama pkg upgrade dan pkg upgrae dulu lalu ganti repo server dulu dengan
+pertama-tama pkg update dan pkg upgrade dulu lalu ganti repo server dulu dengan
 
 ```text
 termux-change-repo
