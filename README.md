@@ -1,6 +1,8 @@
 **Cara menggunakan termux x11**
-
+<h4>View Desktop</h4>
 ![desktop](./viewdesktop.jpg)
+<h4>View Code Oss aka Vscode</h4>
+![code](./viewcodeoss.jpg)
 
 pertama-tama pkg update dan pkg upgrade dulu lalu ganti repo server dulu dengan
 
