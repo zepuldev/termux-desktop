@@ -21,7 +21,6 @@ pkg install code-oss
 pkg install chromium
 ```
 
-***last one***
 clone repo ini dengan git
 ```text
 gt clone https://github.com/zepuldev/termux-desktop.git
@@ -29,14 +28,15 @@ gt clone https://github.com/zepuldev/termux-desktop.git
 masuk ke folder lalu ubah permission file startnya
 ```text
 cd termux-desktop
-chomd +x start
+chmod +x start
 ```
 pindahkan file start ke home
 ```text
 mv start $HOME/start
 ```
-jalankan servernya dengan command startnya
+masuk ke ke home dulu lalu jalankan servernya dengan command startnya
 ```text
+cd $HOME
 ./start
 ```
 lalu buka termux x11nya dan tara selesai :)
